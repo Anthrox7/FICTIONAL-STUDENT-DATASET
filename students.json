@@ -1,0 +1,1402 @@
+[
+  {
+    "studentId": "STU0001",
+    "department": "Cyber Security",
+    "level": 200,
+    "attendancePercentage": 62,
+    "averageExamScore": 64
+  },
+  {
+    "studentId": "STU0002",
+    "department": "Data Science",
+    "level": 200,
+    "attendancePercentage": 61,
+    "averageExamScore": 50
+  },
+  {
+    "studentId": "STU0003",
+    "department": "Software Engineering",
+    "level": 300,
+    "attendancePercentage": 80,
+    "averageExamScore": 81
+  },
+  {
+    "studentId": "STU0004",
+    "department": "Information Technology",
+    "level": 100,
+    "attendancePercentage": 87,
+    "averageExamScore": 87
+  },
+  {
+    "studentId": "STU0005",
+    "department": "Information Technology",
+    "level": 300,
+    "attendancePercentage": 63,
+    "averageExamScore": 57
+  },
+  {
+    "studentId": "STU0006",
+    "department": "Computer Science",
+    "level": 300,
+    "attendancePercentage": 44,
+    "averageExamScore": 53
+  },
+  {
+    "studentId": "STU0007",
+    "department": "Cyber Security",
+    "level": 100,
+    "attendancePercentage": 67,
+    "averageExamScore": 56
+  },
+  {
+    "studentId": "STU0008",
+    "department": "Information Technology",
+    "level": 100,
+    "attendancePercentage": 41,
+    "averageExamScore": 32
+  },
+  {
+    "studentId": "STU0009",
+    "department": "Information Technology",
+    "level": 200,
+    "attendancePercentage": 97,
+    "averageExamScore": 80
+  },
+  {
+    "studentId": "STU0010",
+    "department": "Data Science",
+    "level": 400,
+    "attendancePercentage": 74,
+    "averageExamScore": 72
+  },
+  {
+    "studentId": "STU0011",
+    "department": "Information Technology",
+    "level": 400,
+    "attendancePercentage": 67,
+    "averageExamScore": 52
+  },
+  {
+    "studentId": "STU0012",
+    "department": "Information Technology",
+    "level": 400,
+    "attendancePercentage": 67,
+    "averageExamScore": 53
+  },
+  {
+    "studentId": "STU0013",
+    "department": "Information Technology",
+    "level": 500,
+    "attendancePercentage": 41,
+    "averageExamScore": 42
+  },
+  {
+    "studentId": "STU0014",
+    "department": "Computer Science",
+    "level": 300,
+    "attendancePercentage": 77,
+    "averageExamScore": 80
+  },
+  {
+    "studentId": "STU0015",
+    "department": "Cyber Security",
+    "level": 200,
+    "attendancePercentage": 87,
+    "averageExamScore": 65
+  },
+  {
+    "studentId": "STU0016",
+    "department": "Information Technology",
+    "level": 200,
+    "attendancePercentage": 41,
+    "averageExamScore": 39
+  },
+  {
+    "studentId": "STU0017",
+    "department": "Cyber Security",
+    "level": 400,
+    "attendancePercentage": 49,
+    "averageExamScore": 44
+  },
+  {
+    "studentId": "STU0018",
+    "department": "Information Technology",
+    "level": 300,
+    "attendancePercentage": 81,
+    "averageExamScore": 66
+  },
+  {
+    "studentId": "STU0019",
+    "department": "Cyber Security",
+    "level": 400,
+    "attendancePercentage": 58,
+    "averageExamScore": 52
+  },
+  {
+    "studentId": "STU0020",
+    "department": "Computer Science",
+    "level": 400,
+    "attendancePercentage": 87,
+    "averageExamScore": 82
+  },
+  {
+    "studentId": "STU0021",
+    "department": "Computer Science",
+    "level": 300,
+    "attendancePercentage": 64,
+    "averageExamScore": 60
+  },
+  {
+    "studentId": "STU0022",
+    "department": "Cyber Security",
+    "level": 200,
+    "attendancePercentage": 52,
+    "averageExamScore": 37
+  },
+  {
+    "studentId": "STU0023",
+    "department": "Data Science",
+    "level": 400,
+    "attendancePercentage": 44,
+    "averageExamScore": 44
+  },
+  {
+    "studentId": "STU0024",
+    "department": "Data Science",
+    "level": 500,
+    "attendancePercentage": 42,
+    "averageExamScore": 50
+  },
+  {
+    "studentId": "STU0025",
+    "department": "Computer Science",
+    "level": 300,
+    "attendancePercentage": 100,
+    "averageExamScore": 88
+  },
+  {
+    "studentId": "STU0026",
+    "department": "Data Science",
+    "level": 100,
+    "attendancePercentage": 51,
+    "averageExamScore": 52
+  },
+  {
+    "studentId": "STU0027",
+    "department": "Computer Science",
+    "level": 100,
+    "attendancePercentage": 74,
+    "averageExamScore": 52
+  },
+  {
+    "studentId": "STU0028",
+    "department": "Information Technology",
+    "level": 300,
+    "attendancePercentage": 73,
+    "averageExamScore": 66
+  },
+  {
+    "studentId": "STU0029",
+    "department": "Software Engineering",
+    "level": 500,
+    "attendancePercentage": 80,
+    "averageExamScore": 77
+  },
+  {
+    "studentId": "STU0030",
+    "department": "Data Science",
+    "level": 200,
+    "attendancePercentage": 87,
+    "averageExamScore": 89
+  },
+  {
+    "studentId": "STU0031",
+    "department": "Information Technology",
+    "level": 200,
+    "attendancePercentage": 69,
+    "averageExamScore": 65
+  },
+  {
+    "studentId": "STU0032",
+    "department": "Cyber Security",
+    "level": 100,
+    "attendancePercentage": 58,
+    "averageExamScore": 55
+  },
+  {
+    "studentId": "STU0033",
+    "department": "Cyber Security",
+    "level": 400,
+    "attendancePercentage": 80,
+    "averageExamScore": 81
+  },
+  {
+    "studentId": "STU0034",
+    "department": "Cyber Security",
+    "level": 200,
+    "attendancePercentage": 95,
+    "averageExamScore": 73
+  },
+  {
+    "studentId": "STU0035",
+    "department": "Computer Science",
+    "level": 200,
+    "attendancePercentage": 60,
+    "averageExamScore": 63
+  },
+  {
+    "studentId": "STU0036",
+    "department": "Information Technology",
+    "level": 500,
+    "attendancePercentage": 75,
+    "averageExamScore": 64
+  },
+  {
+    "studentId": "STU0037",
+    "department": "Cyber Security",
+    "level": 200,
+    "attendancePercentage": 58,
+    "averageExamScore": 63
+  },
+  {
+    "studentId": "STU0038",
+    "department": "Data Science",
+    "level": 300,
+    "attendancePercentage": 84,
+    "averageExamScore": 76
+  },
+  {
+    "studentId": "STU0039",
+    "department": "Cyber Security",
+    "level": 100,
+    "attendancePercentage": 85,
+    "averageExamScore": 79
+  },
+  {
+    "studentId": "STU0040",
+    "department": "Data Science",
+    "level": 200,
+    "attendancePercentage": 56,
+    "averageExamScore": 50
+  },
+  {
+    "studentId": "STU0041",
+    "department": "Software Engineering",
+    "level": 200,
+    "attendancePercentage": 88,
+    "averageExamScore": 68
+  },
+  {
+    "studentId": "STU0042",
+    "department": "Cyber Security",
+    "level": 300,
+    "attendancePercentage": 71,
+    "averageExamScore": 55
+  },
+  {
+    "studentId": "STU0043",
+    "department": "Information Technology",
+    "level": 200,
+    "attendancePercentage": 98,
+    "averageExamScore": 89
+  },
+  {
+    "studentId": "STU0044",
+    "department": "Information Technology",
+    "level": 400,
+    "attendancePercentage": 54,
+    "averageExamScore": 39
+  },
+  {
+    "studentId": "STU0045",
+    "department": "Computer Science",
+    "level": 200,
+    "attendancePercentage": 98,
+    "averageExamScore": 93
+  },
+  {
+    "studentId": "STU0046",
+    "department": "Computer Science",
+    "level": 300,
+    "attendancePercentage": 99,
+    "averageExamScore": 75
+  },
+  {
+    "studentId": "STU0047",
+    "department": "Cyber Security",
+    "level": 500,
+    "attendancePercentage": 48,
+    "averageExamScore": 61
+  },
+  {
+    "studentId": "STU0048",
+    "department": "Cyber Security",
+    "level": 100,
+    "attendancePercentage": 61,
+    "averageExamScore": 46
+  },
+  {
+    "studentId": "STU0049",
+    "department": "Computer Science",
+    "level": 200,
+    "attendancePercentage": 64,
+    "averageExamScore": 59
+  },
+  {
+    "studentId": "STU0050",
+    "department": "Information Technology",
+    "level": 100,
+    "attendancePercentage": 84,
+    "averageExamScore": 77
+  },
+  {
+    "studentId": "STU0051",
+    "department": "Software Engineering",
+    "level": 400,
+    "attendancePercentage": 64,
+    "averageExamScore": 58
+  },
+  {
+    "studentId": "STU0052",
+    "department": "Software Engineering",
+    "level": 100,
+    "attendancePercentage": 90,
+    "averageExamScore": 79
+  },
+  {
+    "studentId": "STU0053",
+    "department": "Information Technology",
+    "level": 500,
+    "attendancePercentage": 71,
+    "averageExamScore": 56
+  },
+  {
+    "studentId": "STU0054",
+    "department": "Cyber Security",
+    "level": 200,
+    "attendancePercentage": 99,
+    "averageExamScore": 74
+  },
+  {
+    "studentId": "STU0055",
+    "department": "Computer Science",
+    "level": 400,
+    "attendancePercentage": 99,
+    "averageExamScore": 86
+  },
+  {
+    "studentId": "STU0056",
+    "department": "Information Technology",
+    "level": 300,
+    "attendancePercentage": 47,
+    "averageExamScore": 41
+  },
+  {
+    "studentId": "STU0057",
+    "department": "Cyber Security",
+    "level": 200,
+    "attendancePercentage": 85,
+    "averageExamScore": 63
+  },
+  {
+    "studentId": "STU0058",
+    "department": "Cyber Security",
+    "level": 400,
+    "attendancePercentage": 85,
+    "averageExamScore": 78
+  },
+  {
+    "studentId": "STU0059",
+    "department": "Data Science",
+    "level": 500,
+    "attendancePercentage": 69,
+    "averageExamScore": 57
+  },
+  {
+    "studentId": "STU0060",
+    "department": "Software Engineering",
+    "level": 500,
+    "attendancePercentage": 54,
+    "averageExamScore": 62
+  },
+  {
+    "studentId": "STU0061",
+    "department": "Cyber Security",
+    "level": 400,
+    "attendancePercentage": 91,
+    "averageExamScore": 93
+  },
+  {
+    "studentId": "STU0062",
+    "department": "Information Technology",
+    "level": 200,
+    "attendancePercentage": 99,
+    "averageExamScore": 93
+  },
+  {
+    "studentId": "STU0063",
+    "department": "Software Engineering",
+    "level": 200,
+    "attendancePercentage": 98,
+    "averageExamScore": 74
+  },
+  {
+    "studentId": "STU0064",
+    "department": "Software Engineering",
+    "level": 300,
+    "attendancePercentage": 69,
+    "averageExamScore": 60
+  },
+  {
+    "studentId": "STU0065",
+    "department": "Information Technology",
+    "level": 400,
+    "attendancePercentage": 41,
+    "averageExamScore": 33
+  },
+  {
+    "studentId": "STU0066",
+    "department": "Information Technology",
+    "level": 400,
+    "attendancePercentage": 66,
+    "averageExamScore": 70
+  },
+  {
+    "studentId": "STU0067",
+    "department": "Information Technology",
+    "level": 400,
+    "attendancePercentage": 65,
+    "averageExamScore": 48
+  },
+  {
+    "studentId": "STU0068",
+    "department": "Data Science",
+    "level": 300,
+    "attendancePercentage": 47,
+    "averageExamScore": 43
+  },
+  {
+    "studentId": "STU0069",
+    "department": "Computer Science",
+    "level": 100,
+    "attendancePercentage": 71,
+    "averageExamScore": 77
+  },
+  {
+    "studentId": "STU0070",
+    "department": "Software Engineering",
+    "level": 100,
+    "attendancePercentage": 82,
+    "averageExamScore": 68
+  },
+  {
+    "studentId": "STU0071",
+    "department": "Cyber Security",
+    "level": 300,
+    "attendancePercentage": 76,
+    "averageExamScore": 67
+  },
+  {
+    "studentId": "STU0072",
+    "department": "Data Science",
+    "level": 500,
+    "attendancePercentage": 60,
+    "averageExamScore": 72
+  },
+  {
+    "studentId": "STU0073",
+    "department": "Cyber Security",
+    "level": 400,
+    "attendancePercentage": 67,
+    "averageExamScore": 64
+  },
+  {
+    "studentId": "STU0074",
+    "department": "Data Science",
+    "level": 500,
+    "attendancePercentage": 49,
+    "averageExamScore": 64
+  },
+  {
+    "studentId": "STU0075",
+    "department": "Software Engineering",
+    "level": 100,
+    "attendancePercentage": 49,
+    "averageExamScore": 39
+  },
+  {
+    "studentId": "STU0076",
+    "department": "Data Science",
+    "level": 400,
+    "attendancePercentage": 74,
+    "averageExamScore": 57
+  },
+  {
+    "studentId": "STU0077",
+    "department": "Cyber Security",
+    "level": 500,
+    "attendancePercentage": 81,
+    "averageExamScore": 75
+  },
+  {
+    "studentId": "STU0078",
+    "department": "Information Technology",
+    "level": 500,
+    "attendancePercentage": 84,
+    "averageExamScore": 62
+  },
+  {
+    "studentId": "STU0079",
+    "department": "Data Science",
+    "level": 300,
+    "attendancePercentage": 83,
+    "averageExamScore": 82
+  },
+  {
+    "studentId": "STU0080",
+    "department": "Information Technology",
+    "level": 100,
+    "attendancePercentage": 68,
+    "averageExamScore": 75
+  },
+  {
+    "studentId": "STU0081",
+    "department": "Cyber Security",
+    "level": 400,
+    "attendancePercentage": 91,
+    "averageExamScore": 73
+  },
+  {
+    "studentId": "STU0082",
+    "department": "Software Engineering",
+    "level": 200,
+    "attendancePercentage": 76,
+    "averageExamScore": 63
+  },
+  {
+    "studentId": "STU0083",
+    "department": "Information Technology",
+    "level": 500,
+    "attendancePercentage": 85,
+    "averageExamScore": 74
+  },
+  {
+    "studentId": "STU0084",
+    "department": "Data Science",
+    "level": 300,
+    "attendancePercentage": 67,
+    "averageExamScore": 61
+  },
+  {
+    "studentId": "STU0085",
+    "department": "Information Technology",
+    "level": 100,
+    "attendancePercentage": 52,
+    "averageExamScore": 61
+  },
+  {
+    "studentId": "STU0086",
+    "department": "Data Science",
+    "level": 200,
+    "attendancePercentage": 45,
+    "averageExamScore": 56
+  },
+  {
+    "studentId": "STU0087",
+    "department": "Data Science",
+    "level": 200,
+    "attendancePercentage": 64,
+    "averageExamScore": 73
+  },
+  {
+    "studentId": "STU0088",
+    "department": "Software Engineering",
+    "level": 400,
+    "attendancePercentage": 43,
+    "averageExamScore": 58
+  },
+  {
+    "studentId": "STU0089",
+    "department": "Data Science",
+    "level": 200,
+    "attendancePercentage": 47,
+    "averageExamScore": 55
+  },
+  {
+    "studentId": "STU0090",
+    "department": "Computer Science",
+    "level": 400,
+    "attendancePercentage": 58,
+    "averageExamScore": 66
+  },
+  {
+    "studentId": "STU0091",
+    "department": "Cyber Security",
+    "level": 300,
+    "attendancePercentage": 42,
+    "averageExamScore": 58
+  },
+  {
+    "studentId": "STU0092",
+    "department": "Software Engineering",
+    "level": 100,
+    "attendancePercentage": 57,
+    "averageExamScore": 48
+  },
+  {
+    "studentId": "STU0093",
+    "department": "Cyber Security",
+    "level": 500,
+    "attendancePercentage": 89,
+    "averageExamScore": 78
+  },
+  {
+    "studentId": "STU0094",
+    "department": "Software Engineering",
+    "level": 400,
+    "attendancePercentage": 61,
+    "averageExamScore": 53
+  },
+  {
+    "studentId": "STU0095",
+    "department": "Cyber Security",
+    "level": 400,
+    "attendancePercentage": 78,
+    "averageExamScore": 73
+  },
+  {
+    "studentId": "STU0096",
+    "department": "Computer Science",
+    "level": 200,
+    "attendancePercentage": 68,
+    "averageExamScore": 76
+  },
+  {
+    "studentId": "STU0097",
+    "department": "Software Engineering",
+    "level": 200,
+    "attendancePercentage": 70,
+    "averageExamScore": 53
+  },
+  {
+    "studentId": "STU0098",
+    "department": "Information Technology",
+    "level": 200,
+    "attendancePercentage": 79,
+    "averageExamScore": 61
+  },
+  {
+    "studentId": "STU0099",
+    "department": "Data Science",
+    "level": 200,
+    "attendancePercentage": 56,
+    "averageExamScore": 65
+  },
+  {
+    "studentId": "STU0100",
+    "department": "Software Engineering",
+    "level": 500,
+    "attendancePercentage": 59,
+    "averageExamScore": 57
+  },
+  {
+    "studentId": "STU0101",
+    "department": "Data Science",
+    "level": 300,
+    "attendancePercentage": 59,
+    "averageExamScore": 54
+  },
+  {
+    "studentId": "STU0102",
+    "department": "Software Engineering",
+    "level": 200,
+    "attendancePercentage": 52,
+    "averageExamScore": 42
+  },
+  {
+    "studentId": "STU0103",
+    "department": "Data Science",
+    "level": 200,
+    "attendancePercentage": 98,
+    "averageExamScore": 95
+  },
+  {
+    "studentId": "STU0104",
+    "department": "Cyber Security",
+    "level": 400,
+    "attendancePercentage": 81,
+    "averageExamScore": 61
+  },
+  {
+    "studentId": "STU0105",
+    "department": "Data Science",
+    "level": 200,
+    "attendancePercentage": 69,
+    "averageExamScore": 74
+  },
+  {
+    "studentId": "STU0106",
+    "department": "Computer Science",
+    "level": 400,
+    "attendancePercentage": 50,
+    "averageExamScore": 50
+  },
+  {
+    "studentId": "STU0107",
+    "department": "Cyber Security",
+    "level": 200,
+    "attendancePercentage": 75,
+    "averageExamScore": 55
+  },
+  {
+    "studentId": "STU0108",
+    "department": "Computer Science",
+    "level": 400,
+    "attendancePercentage": 66,
+    "averageExamScore": 76
+  },
+  {
+    "studentId": "STU0109",
+    "department": "Information Technology",
+    "level": 500,
+    "attendancePercentage": 94,
+    "averageExamScore": 87
+  },
+  {
+    "studentId": "STU0110",
+    "department": "Cyber Security",
+    "level": 100,
+    "attendancePercentage": 62,
+    "averageExamScore": 56
+  },
+  {
+    "studentId": "STU0111",
+    "department": "Computer Science",
+    "level": 300,
+    "attendancePercentage": 81,
+    "averageExamScore": 60
+  },
+  {
+    "studentId": "STU0112",
+    "department": "Data Science",
+    "level": 500,
+    "attendancePercentage": 83,
+    "averageExamScore": 75
+  },
+  {
+    "studentId": "STU0113",
+    "department": "Computer Science",
+    "level": 500,
+    "attendancePercentage": 64,
+    "averageExamScore": 54
+  },
+  {
+    "studentId": "STU0114",
+    "department": "Computer Science",
+    "level": 200,
+    "attendancePercentage": 95,
+    "averageExamScore": 96
+  },
+  {
+    "studentId": "STU0115",
+    "department": "Information Technology",
+    "level": 400,
+    "attendancePercentage": 81,
+    "averageExamScore": 70
+  },
+  {
+    "studentId": "STU0116",
+    "department": "Information Technology",
+    "level": 500,
+    "attendancePercentage": 97,
+    "averageExamScore": 72
+  },
+  {
+    "studentId": "STU0117",
+    "department": "Information Technology",
+    "level": 300,
+    "attendancePercentage": 71,
+    "averageExamScore": 60
+  },
+  {
+    "studentId": "STU0118",
+    "department": "Software Engineering",
+    "level": 500,
+    "attendancePercentage": 96,
+    "averageExamScore": 70
+  },
+  {
+    "studentId": "STU0119",
+    "department": "Computer Science",
+    "level": 300,
+    "attendancePercentage": 42,
+    "averageExamScore": 39
+  },
+  {
+    "studentId": "STU0120",
+    "department": "Cyber Security",
+    "level": 400,
+    "attendancePercentage": 92,
+    "averageExamScore": 69
+  },
+  {
+    "studentId": "STU0121",
+    "department": "Information Technology",
+    "level": 400,
+    "attendancePercentage": 66,
+    "averageExamScore": 56
+  },
+  {
+    "studentId": "STU0122",
+    "department": "Computer Science",
+    "level": 100,
+    "attendancePercentage": 81,
+    "averageExamScore": 71
+  },
+  {
+    "studentId": "STU0123",
+    "department": "Data Science",
+    "level": 300,
+    "attendancePercentage": 92,
+    "averageExamScore": 83
+  },
+  {
+    "studentId": "STU0124",
+    "department": "Software Engineering",
+    "level": 400,
+    "attendancePercentage": 76,
+    "averageExamScore": 78
+  },
+  {
+    "studentId": "STU0125",
+    "department": "Computer Science",
+    "level": 300,
+    "attendancePercentage": 68,
+    "averageExamScore": 71
+  },
+  {
+    "studentId": "STU0126",
+    "department": "Computer Science",
+    "level": 100,
+    "attendancePercentage": 84,
+    "averageExamScore": 61
+  },
+  {
+    "studentId": "STU0127",
+    "department": "Data Science",
+    "level": 200,
+    "attendancePercentage": 58,
+    "averageExamScore": 57
+  },
+  {
+    "studentId": "STU0128",
+    "department": "Cyber Security",
+    "level": 200,
+    "attendancePercentage": 73,
+    "averageExamScore": 59
+  },
+  {
+    "studentId": "STU0129",
+    "department": "Computer Science",
+    "level": 300,
+    "attendancePercentage": 78,
+    "averageExamScore": 71
+  },
+  {
+    "studentId": "STU0130",
+    "department": "Data Science",
+    "level": 100,
+    "attendancePercentage": 93,
+    "averageExamScore": 82
+  },
+  {
+    "studentId": "STU0131",
+    "department": "Cyber Security",
+    "level": 100,
+    "attendancePercentage": 61,
+    "averageExamScore": 60
+  },
+  {
+    "studentId": "STU0132",
+    "department": "Cyber Security",
+    "level": 300,
+    "attendancePercentage": 74,
+    "averageExamScore": 68
+  },
+  {
+    "studentId": "STU0133",
+    "department": "Cyber Security",
+    "level": 100,
+    "attendancePercentage": 77,
+    "averageExamScore": 59
+  },
+  {
+    "studentId": "STU0134",
+    "department": "Data Science",
+    "level": 500,
+    "attendancePercentage": 56,
+    "averageExamScore": 48
+  },
+  {
+    "studentId": "STU0135",
+    "department": "Cyber Security",
+    "level": 100,
+    "attendancePercentage": 51,
+    "averageExamScore": 57
+  },
+  {
+    "studentId": "STU0136",
+    "department": "Cyber Security",
+    "level": 300,
+    "attendancePercentage": 44,
+    "averageExamScore": 38
+  },
+  {
+    "studentId": "STU0137",
+    "department": "Software Engineering",
+    "level": 400,
+    "attendancePercentage": 72,
+    "averageExamScore": 52
+  },
+  {
+    "studentId": "STU0138",
+    "department": "Information Technology",
+    "level": 200,
+    "attendancePercentage": 57,
+    "averageExamScore": 50
+  },
+  {
+    "studentId": "STU0139",
+    "department": "Software Engineering",
+    "level": 100,
+    "attendancePercentage": 68,
+    "averageExamScore": 54
+  },
+  {
+    "studentId": "STU0140",
+    "department": "Computer Science",
+    "level": 400,
+    "attendancePercentage": 77,
+    "averageExamScore": 55
+  },
+  {
+    "studentId": "STU0141",
+    "department": "Software Engineering",
+    "level": 400,
+    "attendancePercentage": 92,
+    "averageExamScore": 86
+  },
+  {
+    "studentId": "STU0142",
+    "department": "Software Engineering",
+    "level": 200,
+    "attendancePercentage": 71,
+    "averageExamScore": 74
+  },
+  {
+    "studentId": "STU0143",
+    "department": "Software Engineering",
+    "level": 400,
+    "attendancePercentage": 51,
+    "averageExamScore": 64
+  },
+  {
+    "studentId": "STU0144",
+    "department": "Computer Science",
+    "level": 400,
+    "attendancePercentage": 43,
+    "averageExamScore": 47
+  },
+  {
+    "studentId": "STU0145",
+    "department": "Data Science",
+    "level": 400,
+    "attendancePercentage": 68,
+    "averageExamScore": 75
+  },
+  {
+    "studentId": "STU0146",
+    "department": "Information Technology",
+    "level": 300,
+    "attendancePercentage": 87,
+    "averageExamScore": 65
+  },
+  {
+    "studentId": "STU0147",
+    "department": "Data Science",
+    "level": 300,
+    "attendancePercentage": 70,
+    "averageExamScore": 77
+  },
+  {
+    "studentId": "STU0148",
+    "department": "Computer Science",
+    "level": 500,
+    "attendancePercentage": 52,
+    "averageExamScore": 47
+  },
+  {
+    "studentId": "STU0149",
+    "department": "Cyber Security",
+    "level": 200,
+    "attendancePercentage": 95,
+    "averageExamScore": 85
+  },
+  {
+    "studentId": "STU0150",
+    "department": "Data Science",
+    "level": 100,
+    "attendancePercentage": 74,
+    "averageExamScore": 71
+  },
+  {
+    "studentId": "STU0151",
+    "department": "Information Technology",
+    "level": 400,
+    "attendancePercentage": 96,
+    "averageExamScore": 93
+  },
+  {
+    "studentId": "STU0152",
+    "department": "Software Engineering",
+    "level": 500,
+    "attendancePercentage": 91,
+    "averageExamScore": 73
+  },
+  {
+    "studentId": "STU0153",
+    "department": "Software Engineering",
+    "level": 300,
+    "attendancePercentage": 72,
+    "averageExamScore": 53
+  },
+  {
+    "studentId": "STU0154",
+    "department": "Computer Science",
+    "level": 300,
+    "attendancePercentage": 74,
+    "averageExamScore": 59
+  },
+  {
+    "studentId": "STU0155",
+    "department": "Computer Science",
+    "level": 100,
+    "attendancePercentage": 82,
+    "averageExamScore": 77
+  },
+  {
+    "studentId": "STU0156",
+    "department": "Data Science",
+    "level": 300,
+    "attendancePercentage": 97,
+    "averageExamScore": 82
+  },
+  {
+    "studentId": "STU0157",
+    "department": "Information Technology",
+    "level": 400,
+    "attendancePercentage": 88,
+    "averageExamScore": 72
+  },
+  {
+    "studentId": "STU0158",
+    "department": "Software Engineering",
+    "level": 200,
+    "attendancePercentage": 93,
+    "averageExamScore": 92
+  },
+  {
+    "studentId": "STU0159",
+    "department": "Software Engineering",
+    "level": 100,
+    "attendancePercentage": 57,
+    "averageExamScore": 48
+  },
+  {
+    "studentId": "STU0160",
+    "department": "Software Engineering",
+    "level": 500,
+    "attendancePercentage": 71,
+    "averageExamScore": 61
+  },
+  {
+    "studentId": "STU0161",
+    "department": "Information Technology",
+    "level": 400,
+    "attendancePercentage": 68,
+    "averageExamScore": 53
+  },
+  {
+    "studentId": "STU0162",
+    "department": "Software Engineering",
+    "level": 400,
+    "attendancePercentage": 96,
+    "averageExamScore": 96
+  },
+  {
+    "studentId": "STU0163",
+    "department": "Software Engineering",
+    "level": 500,
+    "attendancePercentage": 64,
+    "averageExamScore": 61
+  },
+  {
+    "studentId": "STU0164",
+    "department": "Software Engineering",
+    "level": 500,
+    "attendancePercentage": 60,
+    "averageExamScore": 48
+  },
+  {
+    "studentId": "STU0165",
+    "department": "Information Technology",
+    "level": 400,
+    "attendancePercentage": 66,
+    "averageExamScore": 63
+  },
+  {
+    "studentId": "STU0166",
+    "department": "Cyber Security",
+    "level": 400,
+    "attendancePercentage": 75,
+    "averageExamScore": 60
+  },
+  {
+    "studentId": "STU0167",
+    "department": "Software Engineering",
+    "level": 100,
+    "attendancePercentage": 56,
+    "averageExamScore": 41
+  },
+  {
+    "studentId": "STU0168",
+    "department": "Data Science",
+    "level": 500,
+    "attendancePercentage": 67,
+    "averageExamScore": 49
+  },
+  {
+    "studentId": "STU0169",
+    "department": "Data Science",
+    "level": 500,
+    "attendancePercentage": 87,
+    "averageExamScore": 68
+  },
+  {
+    "studentId": "STU0170",
+    "department": "Information Technology",
+    "level": 400,
+    "attendancePercentage": 52,
+    "averageExamScore": 65
+  },
+  {
+    "studentId": "STU0171",
+    "department": "Information Technology",
+    "level": 300,
+    "attendancePercentage": 46,
+    "averageExamScore": 41
+  },
+  {
+    "studentId": "STU0172",
+    "department": "Cyber Security",
+    "level": 300,
+    "attendancePercentage": 50,
+    "averageExamScore": 43
+  },
+  {
+    "studentId": "STU0173",
+    "department": "Data Science",
+    "level": 300,
+    "attendancePercentage": 45,
+    "averageExamScore": 57
+  },
+  {
+    "studentId": "STU0174",
+    "department": "Information Technology",
+    "level": 300,
+    "attendancePercentage": 76,
+    "averageExamScore": 59
+  },
+  {
+    "studentId": "STU0175",
+    "department": "Cyber Security",
+    "level": 400,
+    "attendancePercentage": 48,
+    "averageExamScore": 38
+  },
+  {
+    "studentId": "STU0176",
+    "department": "Software Engineering",
+    "level": 100,
+    "attendancePercentage": 42,
+    "averageExamScore": 39
+  },
+  {
+    "studentId": "STU0177",
+    "department": "Data Science",
+    "level": 100,
+    "attendancePercentage": 75,
+    "averageExamScore": 57
+  },
+  {
+    "studentId": "STU0178",
+    "department": "Information Technology",
+    "level": 200,
+    "attendancePercentage": 84,
+    "averageExamScore": 72
+  },
+  {
+    "studentId": "STU0179",
+    "department": "Computer Science",
+    "level": 500,
+    "attendancePercentage": 50,
+    "averageExamScore": 63
+  },
+  {
+    "studentId": "STU0180",
+    "department": "Data Science",
+    "level": 400,
+    "attendancePercentage": 75,
+    "averageExamScore": 54
+  },
+  {
+    "studentId": "STU0181",
+    "department": "Software Engineering",
+    "level": 500,
+    "attendancePercentage": 58,
+    "averageExamScore": 62
+  },
+  {
+    "studentId": "STU0182",
+    "department": "Software Engineering",
+    "level": 100,
+    "attendancePercentage": 54,
+    "averageExamScore": 61
+  },
+  {
+    "studentId": "STU0183",
+    "department": "Cyber Security",
+    "level": 300,
+    "attendancePercentage": 92,
+    "averageExamScore": 94
+  },
+  {
+    "studentId": "STU0184",
+    "department": "Information Technology",
+    "level": 400,
+    "attendancePercentage": 91,
+    "averageExamScore": 79
+  },
+  {
+    "studentId": "STU0185",
+    "department": "Software Engineering",
+    "level": 200,
+    "attendancePercentage": 67,
+    "averageExamScore": 55
+  },
+  {
+    "studentId": "STU0186",
+    "department": "Cyber Security",
+    "level": 500,
+    "attendancePercentage": 74,
+    "averageExamScore": 75
+  },
+  {
+    "studentId": "STU0187",
+    "department": "Computer Science",
+    "level": 500,
+    "attendancePercentage": 69,
+    "averageExamScore": 58
+  },
+  {
+    "studentId": "STU0188",
+    "department": "Software Engineering",
+    "level": 400,
+    "attendancePercentage": 71,
+    "averageExamScore": 72
+  },
+  {
+    "studentId": "STU0189",
+    "department": "Computer Science",
+    "level": 200,
+    "attendancePercentage": 58,
+    "averageExamScore": 48
+  },
+  {
+    "studentId": "STU0190",
+    "department": "Data Science",
+    "level": 500,
+    "attendancePercentage": 80,
+    "averageExamScore": 66
+  },
+  {
+    "studentId": "STU0191",
+    "department": "Computer Science",
+    "level": 100,
+    "attendancePercentage": 84,
+    "averageExamScore": 78
+  },
+  {
+    "studentId": "STU0192",
+    "department": "Cyber Security",
+    "level": 200,
+    "attendancePercentage": 58,
+    "averageExamScore": 70
+  },
+  {
+    "studentId": "STU0193",
+    "department": "Computer Science",
+    "level": 400,
+    "attendancePercentage": 46,
+    "averageExamScore": 40
+  },
+  {
+    "studentId": "STU0194",
+    "department": "Data Science",
+    "level": 100,
+    "attendancePercentage": 56,
+    "averageExamScore": 43
+  },
+  {
+    "studentId": "STU0195",
+    "department": "Cyber Security",
+    "level": 400,
+    "attendancePercentage": 57,
+    "averageExamScore": 44
+  },
+  {
+    "studentId": "STU0196",
+    "department": "Software Engineering",
+    "level": 100,
+    "attendancePercentage": 91,
+    "averageExamScore": 84
+  },
+  {
+    "studentId": "STU0197",
+    "department": "Data Science",
+    "level": 100,
+    "attendancePercentage": 46,
+    "averageExamScore": 54
+  },
+  {
+    "studentId": "STU0198",
+    "department": "Computer Science",
+    "level": 500,
+    "attendancePercentage": 73,
+    "averageExamScore": 81
+  },
+  {
+    "studentId": "STU0199",
+    "department": "Software Engineering",
+    "level": 200,
+    "attendancePercentage": 45,
+    "averageExamScore": 46
+  },
+  {
+    "studentId": "STU0200",
+    "department": "Information Technology",
+    "level": 500,
+    "attendancePercentage": 42,
+    "averageExamScore": 51
+  }
+]
